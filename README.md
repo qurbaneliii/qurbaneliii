@@ -3,8 +3,8 @@
 <h1 align="center">Gurbanali Feyzullayev</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=820&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics+(Exploring);Learning+by+building+and+sharing">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=820&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics+(Exploring);Learning+by+building+and+sharing" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics+(Exploring);Learning+by+building+and+sharing">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics+(Exploring);Learning+by+building+and+sharing" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,48 +16,50 @@
 </p>
 
 <p align="center">
-  <sub><b>Focus:</b> NLP • Computer Vision • Bioinformatics (Exploring) • Data Science Foundations</sub>
+  <sub><b>Focus:</b> NLP • Computer Vision • Bioinformatics (Exploring) • Applied Machine Learning</sub>
 </p>
 
 ---
 
 ## About
-I’m **Gurbanali Feyzullayev**, an **aspiring Data Scientist** focused on learning-by-doing.  
-I document my progress through projects, notes, and experiments—turning concepts into working code.
+I’m **Gurbanali Feyzullayev**, an **aspiring Data Scientist** focused on practical learning and building real projects.  
+I document my journey through notebooks, experiments, and repositories—aiming to turn ideas into reproducible results.
 
 ---
 
-## Featured Work
+## Featured Projects
+> If any repo link/name differs (case or spelling), send me the correct URL and I’ll update it.
+
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
       <b>My Data Science Learning Journey</b><br/>
-      <sub>Hands-on exercises, notes, and mini-projects from fundamentals to practical work.</sub><br/>
-      <a href="https://github.com/qurbaneliii/My-Data-Science-Learning-Journey">Repository →</a>
+      <sub>Notes + hands-on mini-projects (fundamentals → applied work).</sub><br/>
+      <a href="https://github.com/qurbaneliii/My-Data-Science-Learning-Journey">Open repository →</a>
     </td>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
       <b>NoApplAI</b><br/>
-      <sub>Project repository (share exact repo link if name/case differs).</sub><br/>
-      <a href="https://github.com/qurbaneliii/noapplai">Repository →</a>
+      <sub>Project repository (NLP/AI-focused work).</sub><br/>
+      <a href="https://github.com/qurbaneliii/noapplai">Open repository →</a>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
       <b>MyTeknofest Projects</b><br/>
       <sub>Teknofest-related projects and experiments.</sub><br/>
-      <a href="https://github.com/qurbaneliii/myteknofest">Repository →</a>
+      <a href="https://github.com/qurbaneliii/myteknofest">Open repository →</a>
     </td>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
       <b>BDU İmtahan Giriş Balı Hesablama</b><br/>
       <sub>Entrance score calculator project.</sub><br/>
-      <a href="https://github.com/qurbaneliii/bduimtahan">Repository →</a>
+      <a href="https://github.com/qurbaneliii/bduimtahan">Open repository →</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Tech Stack (Quick View)
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -90,14 +92,15 @@ I document my progress through projects, notes, and experiments—turning concep
 
 ---
 
-## Currently Learning
-- Transformers for **NLP** (embeddings, classification, fine-tuning basics)
-- **Computer Vision** (transfer learning, detection fundamentals)
-- Getting comfortable with **bioinformatics data** and workflows
+## What I’m Working On
+- Building stronger fundamentals in **statistics**, **ML**, and **data pipelines**
+- Practical **NLP** projects (embeddings, classification, transformer basics)
+- **Computer Vision** experiments (transfer learning, detection fundamentals)
+- Exploring **bioinformatics datasets** and workflows
 
 ---
 
-## GitHub Overview
+## GitHub Dashboard
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qurbaneliii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -113,8 +116,8 @@ I document my progress through projects, notes, and experiments—turning concep
 ---
 
 <p align="center">
-  <b>Thanks for visiting!</b><br/>
-  <sub>If you want to collaborate or have feedback, feel free to reach out via LinkedIn or Email.</sub>
+  <b>Let’s connect</b><br/>
+  <sub>Open to feedback, collaboration, and learning opportunities. Reach out via LinkedIn or Email.</sub>
 </p>
 
 <p align="center">
