@@ -114,9 +114,9 @@ I am highly motivated to continuously learn, experiment, and build — whether i
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qurbaneliii&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qurbaneliii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -124,13 +124,19 @@ I am highly motivated to continuously learn, experiment, and build — whether i
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gurbanalifeyzullayev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/qurbanelii" target="_blank">
-    <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
   </a>
   <a href="https://github.com/qurbaneliii" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://medium.com/@gurbanali" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:qurbanelifeyzullayev@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
