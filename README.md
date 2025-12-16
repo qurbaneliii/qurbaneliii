@@ -1,91 +1,83 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=qurbaneliii&color=brightgreen)
 
-<h1 align="center">Hi, I'm Gurbanali Feyzullayev</h1>
-<h3 align="center">Aspiring Data Scientist • NLP • Computer Vision • Bioinformatics (Exploring)</h3>
+<h1 align="center">Gurbanali Feyzullayev</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gurbanalifeyzullayev/" target="_blank" rel="noreferrer">LinkedIn</a> •
-  <a href="https://gurbanali.medium.com/" target="_blank" rel="noreferrer">Medium</a> •
-  <a href="https://x.com/qurbanelii" target="_blank" rel="noreferrer">X</a> •
-  <a href="mailto:qurbanelifeyzullayev@gmail.com" target="_blank" rel="noreferrer">Email</a>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics+(Exploring);Learning+by+building+and+sharing">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics+(Exploring);Learning+by+building+and+sharing" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gurbanalifeyzullayev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://gurbanali.medium.com/"><img src="https://img.shields.io/badge/Medium-Read%20Articles-000000?logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/qurbanelii"><img src="https://img.shields.io/badge/X-Follow-111111?logo=x&logoColor=white" /></a>
+  <a href="mailto:qurbanelifeyzullayev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## About Me
-I'm **Gurbanali Feyzullayev**, an **aspiring Data Scientist** currently focused on learning and building projects in:
-- **Natural Language Processing (NLP)**
-- **Computer Vision**
-- **Bioinformatics** (beginner / exploration)
-
-I document my progress through practical repositories and write-ups, aiming to build a strong foundation and a portfolio of real, hands-on work.
+## About
+I’m **Gurbanali Feyzullayev**, an **aspiring Data Scientist** focused on learning-by-doing.  
+My current interests include **NLP**, **Computer Vision**, and **Bioinformatics** (exploring).  
+I use GitHub as my portfolio to track progress, publish projects, and share experiments.
 
 ---
 
 ## Featured Projects
-- **My Data Science Learning Journey** — hands-on exercises, notes, and practical mini-projects as I learn data science.  
+> Send me the exact repo links if names differ (case / hyphenation), and I’ll update these.
+
+- **My Data Science Learning Journey**  
+  Hands-on exercises, notes, and practical mini-projects.  
   https://github.com/qurbaneliii/My-Data-Science-Learning-Journey
 
-- **NoApplAI** — project repository (link to be updated with the exact repo URL).  
+- **NoApplAI**  
   https://github.com/qurbaneliii/noapplai
 
-- **MyTeknofest Projects** — Teknofest-related projects and experiments (link to be updated with the exact repo URL).  
+- **MyTeknofest Projects**  
   https://github.com/qurbaneliii/myteknofest
 
-- **BDU İmtahan Giriş Balı Hesablama** — entrance score calculator (link to be updated with the exact repo URL).  
+- **BDU İmtahan Giriş Balı Hesablama**  
   https://github.com/qurbaneliii/bduimtahan
-
-> If any of the links above don’t exist (name/case differs), send me the correct repo URLs and I’ll update this section precisely.
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
-### Machine Learning & Data Science
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-</p>
+### ML / Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 
 ### Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-### Development Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
-### DB Management Tools
-- **pgAdmin**
-- **Valentina Studio**
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
-## Currently Learning / Exploring
-- Deep learning for **NLP** (transformers, text classification, embeddings)
-- **Computer Vision** (transfer learning, image classification/detection basics)
-- Foundations and tooling around **bioinformatics data**
+## Currently Learning
+- Transformers for **NLP** (embeddings, classification, fine-tuning basics)
+- **Computer Vision** (transfer learning, detection fundamentals)
+- Getting comfortable with **bioinformatics data** and workflows
 
 ---
 
@@ -93,38 +85,17 @@ I document my progress through practical repositories and write-ups, aiming to b
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qurbaneliii&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurbaneliii&theme=radical" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurbaneliii&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/gurbanalifeyzullayev/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/qurbanelii" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
-  </a>
-  <a href="https://gurbanali.medium.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="mailto:qurbanelifeyzullayev@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer"/>
 </p>
