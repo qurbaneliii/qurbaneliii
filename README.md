@@ -3,20 +3,34 @@
 <h1 align="center">Gurbanali Feyzullayev</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics+(Exploring);Learning+by+building+and+sharing">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics+(Exploring);Learning+by+building+and+sharing" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gurbanalifeyzullayev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://gurbanali.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" /></a>
-  <a href="https://x.com/qurbanelii"><img src="https://img.shields.io/badge/X-111111?logo=x&logoColor=white" /></a>
-  <a href="mailto:qurbanelifeyzullayev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gurbanalifeyzullayev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://gurbanali.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://x.com/qurbanelii">
+    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:qurbanelifeyzullayev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <sub><b>Focus:</b> NLP • Computer Vision • Bioinformatics (Exploring) • Applied Machine Learning</sub>
+  <img src="https://img.shields.io/badge/Focus-NLP-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-2EA043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Bioinformatics%20(Exploring)-D29922?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-Applied%20ML-1F6FEB?style=flat-square" />
 </p>
 
 ---
