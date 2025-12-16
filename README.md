@@ -1,99 +1,129 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=qurbaneliii&color=brightgreen)
 
-<h1 align="center">Hi 👋, I'm Qurbanaliev Bakhtiyar</h1>
-<h3 align="center">A passionate IT enthusiast from Tajikistan 🇹🇯</h3>
+<h1 align="center">Hi, I'm Gurbanali Feyzullayev</h1>
+<h3 align="center">Aspiring Data Scientist • NLP • Computer Vision • Bioinformatics (Exploring)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;IT+Student+%7C+Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/gurbanalifeyzullayev/" target="_blank" rel="noreferrer">LinkedIn</a> •
+  <a href="https://gurbanali.medium.com/" target="_blank" rel="noreferrer">Medium</a> •
+  <a href="https://x.com/qurbanelii" target="_blank" rel="noreferrer">X</a> •
+  <a href="mailto:qurbanelifeyzullayev@gmail.com" target="_blank" rel="noreferrer">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
+I'm **Gurbanali Feyzullayev**, an **aspiring Data Scientist** currently focused on learning and building projects in:
+- **Natural Language Processing (NLP)**
+- **Computer Vision**
+- **Bioinformatics** (beginner / exploration)
 
-- 🎓 I'm currently studying **Information Technology**
-- 🌱 I'm currently learning **Web Development, Python, and Data Science**
-- 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **qurbaneliiibakhtiyar@gmail.com**
-- ⚡ Fun fact: **I love exploring new technologies and solving problems!**
+I document my progress through practical repositories and write-ups, aiming to build a strong foundation and a portfolio of real, hands-on work.
 
 ---
 
-## 🛠️ Languages and Tools
+## Featured Projects
+- **My Data Science Learning Journey** — hands-on exercises, notes, and practical mini-projects as I learn data science.  
+  https://github.com/qurbaneliii/My-Data-Science-Learning-Journey
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+- **NoApplAI** — project repository (link to be updated with the exact repo URL).  
+  https://github.com/qurbaneliii/noapplai
+
+- **MyTeknofest Projects** — Teknofest-related projects and experiments (link to be updated with the exact repo URL).  
+  https://github.com/qurbaneliii/myteknofest
+
+- **BDU İmtahan Giriş Balı Hesablama** — entrance score calculator (link to be updated with the exact repo URL).  
+  https://github.com/qurbaneliii/bduimtahan
+
+> If any of the links above don’t exist (name/case differs), send me the correct repo URLs and I’ll update this section precisely.
+
+---
+
+## Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
 </p>
 
+### Machine Learning & Data Science
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+</p>
+
+### Development Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+### DB Management Tools
+- **pgAdmin**
+- **Valentina Studio**
+
 ---
 
-## 📊 GitHub Stats
+## Currently Learning / Exploring
+- Deep learning for **NLP** (transformers, text classification, embeddings)
+- **Computer Vision** (transfer learning, image classification/detection basics)
+- Foundations and tooling around **bioinformatics data**
 
+---
+
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qurbaneliii&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurbaneliii&theme=radical" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📈 Activity Graph
-
+## Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurbaneliii&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qurbaneliii&theme=radical&no-frame=false&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🔗 Connect with Me
-
+## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="blank">
+  <a href="https://www.linkedin.com/in/gurbanalifeyzullayev/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://x.com/qurbanelii" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
   </a>
-  <a href="mailto:qurbaneliiibakhtiyar@gmail.com" target="blank">
+  <a href="https://gurbanali.medium.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="mailto:qurbanelifeyzullayev@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
