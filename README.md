@@ -71,6 +71,7 @@ I use GitHub as my portfolio to track progress, publish projects, and share expe
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 
 ---
 
@@ -87,14 +88,21 @@ I use GitHub as my portfolio to track progress, publish projects, and share expe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurbaneliii&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurbaneliii&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
+
+<p align="center"><sub>If the streak image doesn’t load, it may be temporarily blocked/unavailable. Please refresh or check again later.</sub></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
+
+<p align="center">
+  <b>Thanks for visiting!</b><br/>
+  <sub>I’m documenting my Data Science learning journey (NLP • Computer Vision • Bioinformatics). Feel free to connect or reach out.</sub>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer"/>
