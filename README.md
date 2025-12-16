@@ -88,10 +88,8 @@ I use GitHub as my portfolio to track progress, publish projects, and share expe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurbaneliii&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurbaneliii&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
-
-<p align="center"><sub>If the streak image doesn’t load, it may be temporarily blocked/unavailable. Please refresh or check again later.</sub></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&theme=radical" alt="Top Languages" />
