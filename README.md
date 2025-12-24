@@ -110,7 +110,14 @@ I document my journey through notebooks, experiments, and repositories—aiming 
 - Exploring **bioinformatics datasets** and workflows
 
 ---
+## 🎓 Certificates
 
+- **Python for Data Science, AI & Development** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/verify/85ZM27DANS29)
+- **Getting Started with Git and GitHub** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/verify/NDDQGTKVVSTI)
+- **Introduction to Software Engineering** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/certificate/QDUU72HWLU6V)
+- **SQL (Basic) Certificate** — HackerRank — [Verify](https://www.hackerrank.com/certificates/64ab1c9128ee)
+
+---
 ## GitHub Dashboard
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qurbaneliii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
