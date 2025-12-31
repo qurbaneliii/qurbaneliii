@@ -36,8 +36,9 @@
 ---
 
 ## About
-I’m **Gurbanali Feyzullayev**, an **aspiring Data Scientist** focused on practical learning and building real projects.  
-I document my journey through notebooks, experiments, and repositories—aiming to turn ideas into reproducible results.
+I’m a **Data Science & AI-oriented developer** with a strong interdisciplinary background spanning **biology, machine learning, and software engineering**. My work focuses on turning complex data into actionable insights and building AI-powered, real-world solutions.
+
+I actively combine **scientific thinking**, **engineering discipline**, and **product mindset** to develop projects that are not only technically sound but also meaningful and scalable.
 
 ---
 
