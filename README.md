@@ -41,35 +41,12 @@ I document my journey through notebooks, experiments, and repositories—aiming 
 
 ---
 
-## Featured Projects
-> If any repo link/name differs (case or spelling), send me the correct URL and I’ll update it.
+## Certificates
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>My Data Science Learning Journey</b><br/>
-      <sub>Notes + hands-on mini-projects (fundamentals → applied work).</sub><br/>
-      <a href="https://github.com/qurbaneliii/My-Data-Science-Learning-Journey">Open repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>NoApplAI</b><br/>
-      <sub>Project repository (NLP/AI-focused work).</sub><br/>
-      <a href="https://github.com/qurbaneliii/noapplai">Open repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>MyTeknofest Projects</b><br/>
-      <sub>Teknofest-related projects and experiments.</sub><br/>
-      <a href="https://github.com/qurbaneliii/myteknofest">Open repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>BDU İmtahan Giriş Balı Hesablama</b><br/>
-      <sub>Entrance score calculator project.</sub><br/>
-      <a href="https://github.com/qurbaneliii/bduimtahan">Open repository →</a>
-    </td>
-  </tr>
-</table>
+- **Python for Data Science, AI & Development** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/verify/85ZM27DANS29)
+- **Getting Started with Git and GitHub** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/verify/NDDQGTKVVSTI)
+- **Introduction to Software Engineering** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/certificate/QDUU72HWLU6V)
+- **SQL (Basic) Certificate** — HackerRank — [Verify](https://www.hackerrank.com/certificates/64ab1c9128ee)
 
 ---
 
@@ -110,12 +87,6 @@ I document my journey through notebooks, experiments, and repositories—aiming 
 - Exploring **bioinformatics datasets** and workflows
 
 ---
-## 🎓 Certificates
-
-- **Python for Data Science, AI & Development** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/verify/85ZM27DANS29)
-- **Getting Started with Git and GitHub** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/verify/NDDQGTKVVSTI)
-- **Introduction to Software Engineering** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/certificate/QDUU72HWLU6V)
-- **SQL (Basic) Certificate** — HackerRank — [Verify](https://www.hackerrank.com/certificates/64ab1c9128ee)
 
 ---
 ## GitHub Dashboard
