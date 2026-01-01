@@ -93,27 +93,19 @@ I actively combine **scientific thinking**, **engineering discipline**, and **pr
 ## GitHub Dashboard
 
 <p align="center">
-  <a href="https://github.com/qurbaneliii">
-    <img src="https://github-readme-stats.vercel.app/api?username=qurbaneliii&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qurbaneliii&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/qurbaneliii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/qurbaneliii">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurbaneliii&theme=react-dark&hide_border=true&area=true" alt="Gurbanali Feyzullayev's Contribution Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurbaneliii&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/qurbaneliii">
-    <img src="https://streak-stats.demolab.com?user=qurbaneliii&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=qurbaneliii&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
