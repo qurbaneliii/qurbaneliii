@@ -110,7 +110,12 @@ I actively combine **scientific thinking**, **engineering discipline**, and **pr
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=qurbaneliii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurbaneliii&theme=tokyonight" alt="GitHub Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qurbaneliii&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurbaneliii&theme=tokyonight&utcOffset=4" alt="Productive Time" />
 </p>
 
 ---
