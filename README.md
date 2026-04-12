@@ -3,7 +3,7 @@
 <h1 align="center">Gurbanali Feyzullayev</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;NLP+%7C+Computer+Vision+%7C+Neural+Networks">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics"
       alt="Typing SVG"
