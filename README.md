@@ -91,7 +91,7 @@ I actively combine **scientific thinking**, **engineering discipline**, and **pr
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=qurbaneliii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -99,7 +99,7 @@ I actively combine **scientific thinking**, **engineering discipline**, and **pr
 
 ---
 
-## 🗂️ Top Languages
+## Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -107,7 +107,7 @@ I actively combine **scientific thinking**, **engineering discipline**, and **pr
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurbaneliii&theme=tokyonight" alt="GitHub Activity" />
