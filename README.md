@@ -1,130 +1,125 @@
-![Profile Views](https://komarev.com/ghpvc/?username=qurbaneliii&color=brightgreen)
-
-<h1 align="center">Gurbanali Feyzullayev</h1>
+<h1 align="center">Qurbanəli Feyzullayev</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;NLP+%7C+Computer+Vision+%7C+Neural+Networks">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Scientist;NLP+%7C+Computer+Vision+%7C+Bioinformatics"
-      alt="Typing SVG"
-    />
-  </a>
+  Data Science and AI Engineering builder focused on practical AI products, bioinformatics, automation, and full-stack AI systems.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gurbanalifeyzullayev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://gurbanali.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Read-000000?style=flat&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://x.com/qurbanelii">
-    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-Follow-111111?style=flat&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:qurbanelifeyzullayev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-NLP-6E40C9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-2EA043?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Bioinformatics%20(Exploring)-D29922?style=flat-square" />
-  <img src="https://img.shields.io/badge/Goal-Applied%20ML-1F6FEB?style=flat-square" />
 </p>
 
 ---
 
 ## About
-I’m a **Data Science & AI-oriented developer** with a strong interdisciplinary background spanning **biology, machine learning, and software engineering**. My work focuses on turning complex data into actionable insights and building AI-powered, real-world solutions.
 
-I actively combine **scientific thinking**, **engineering discipline**, and **product mindset** to develop projects that are not only technically sound but also meaningful and scalable.
+- Building AI-powered tools, automation systems, and product-style MVPs beyond simple notebooks.
+- Interested in machine learning, bioinformatics, healthcare AI, AI agents, and LLM-based products.
+- Focused on turning ideas into working systems with frontend, backend, API logic, model workflows, and deployment paths.
+- Improving across AI engineering, model evaluation, MLOps, data pipelines, and full-stack product development.
+- Comfortable working across research, product thinking, and implementation.
 
----
+## Technical Focus
 
-## Certificates
-
-- **Python for Data Science, AI & Development** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/verify/85ZM27DANS29)
-- **Getting Started with Git and GitHub** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/verify/NDDQGTKVVSTI)
-- **Introduction to Software Engineering** — IBM via Coursera — [Verify](https://www.coursera.org/account/accomplishments/certificate/QDUU72HWLU6V)
-- **SQL (Basic) Certificate** — HackerRank — [Verify](https://www.hackerrank.com/certificates/64ab1c9128ee)
-
----
+- **Machine Learning & Data Science:** model training, feature engineering, evaluation, explainability, and notebooks.
+- **AI Engineering & LLM Workflows:** OpenAI/Ollama providers, prompt workflows, AI assistants, and fallback logic.
+- **Bioinformatics & Healthcare AI:** genetic variant classification, clinical genomics pipelines, validation, and reporting.
+- **Full-stack AI Products:** Next.js/React frontends, FastAPI backends, API contracts, dashboards, and product flows.
+- **Automation & Developer Tools:** spreadsheet assistants, SQL copilots, social media automation, and workflow utilities.
+- **Product Prototyping:** building MVPs with realistic architecture, safety checks, tests, and deployment documentation.
 
 ## Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+**Languages:** Python, SQL, TypeScript, JavaScript, MATLAB  
+**Data / ML:** pandas, NumPy, scikit-learn, LightGBM, XGBoost, CatBoost, Optuna, SHAP, Matplotlib, Jupyter  
+**AI / LLM:** OpenAI API, Ollama/local models, prompt engineering, provider routing, LLM fallback systems  
+**Backend:** FastAPI, REST APIs, PostgreSQL integrations, Pydantic, Uvicorn  
+**Frontend:** React, TypeScript, Next.js, Vite, Tailwind CSS  
+**Databases / Platforms:** PostgreSQL, Supabase, SQLite, Prisma  
+**DevOps / Tools:** Git, GitHub, Docker, GitHub Pages, Vercel, VS Code, virtual environments, pytest
 
-**ML / Data Science**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+## Featured Projects
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+### [AI Social Media Manager / ARIA](https://github.com/qurbaneliii/AI-Social-Media-Manager)
 
-**Tools**  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+AI-powered social media management system for planning, generating, reviewing, scheduling, and optimizing multi-platform content.
 
----
+- **Tech:** Python, FastAPI, Next.js, React, TypeScript, OpenAI, Prisma, Docker, Temporal-style workflow structure
+- **Solves:** Helps turn brand rules, platform requirements, approval flows, and content strategy into structured AI-assisted workflows.
+- **Status:** Active product-style MVP with frontend, backend modules, tests, deployment notes, and architecture documentation.
 
-## What I’m Working On
-- Building stronger fundamentals in **statistics**, **ML**, and **data pipelines**
-- Practical **NLP** projects (embeddings, classification, transformer basics)
-- **Computer Vision** experiments (transfer learning, detection fundamentals)
-- Exploring **bioinformatics datasets** and workflows
+### [SQL AI Copilot](https://github.com/qurbaneliii/SQL-ai-plugin)
 
----
+PostgreSQL-focused AI sidecar for generating, explaining, validating, fixing, optimizing, and safely running SQL workflows.
 
----
+- **Tech:** Python, FastAPI, React, TypeScript, Vite, PostgreSQL, OpenAI provider, Ollama/local provider, sqlglot, pytest
+- **Solves:** Gives developers a safer AI assistant for database work with schema context, read-only execution, provider routing, and SQL safety checks.
+- **Status:** In progress, with documented backend/frontend architecture, tests, demo mode, and deployment notes.
 
-## GitHub Stats
+### [Excel AI Assistant](https://github.com/qurbaneliii/excel-plugin)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=qurbaneliii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+Microsoft Excel Office Add-in MVP that brings AI-assisted formulas, range analysis, cleaning plans, and reports into an Excel task pane.
 
----
+- **Tech:** Python, FastAPI, React, TypeScript, Office.js, OpenAI, Ollama/local models, deterministic fallback logic
+- **Solves:** Helps users analyze selected ranges, generate or fix formulas, create reports, and apply safe deterministic workbook actions.
+- **Status:** MVP with local setup docs, backend-only secret handling, tests, and known limitations documented.
 
-## Top Languages
+### [TEKNOFEST 2026 Genetic Variant Classifier](https://github.com/qurbaneliii/Teknofest)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+Healthcare AI and clinical genomics pipeline for missense variant pathogenicity prediction.
 
----
+- **Tech:** Python, pandas, scikit-learn, LightGBM, CatBoost, XGBoost, Optuna, SHAP, Jupyter, pytest
+- **Solves:** Builds a reproducible genomics ML workflow with leakage-aware preparation, feature engineering, validation, model comparison, explainability, and report outputs.
+- **Status:** Research/competition project with notebooks, scripts, model artifacts, tests, and final audit/report materials.
 
-## GitHub Streak
+### [Kinetix Flow](https://github.com/qurbaneliii/kinetix-flow)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurbaneliii&theme=tokyonight" alt="GitHub Activity" />
-</p>
+Machine learning project for forecasting Baku metro passenger flow and transit load patterns.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qurbaneliii&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurbaneliii&theme=tokyonight&utcOffset=4" alt="Productive Time" />
-</p>
+- **Tech:** Jupyter Notebook, Python, XGBoost, feature engineering, model metadata
+- **Solves:** Uses temporal, station-level, and local-context features to analyze and forecast passenger flow for urban transport planning.
+- **Status:** Data science project with trained model artifacts and explanatory analysis.
 
----
+## Certificates
 
-<p align="center">
-  <b>Let’s connect</b><br/>
-  <sub>Open to feedback, collaboration, and learning opportunities. Reach out via LinkedIn or Email.</sub>
-</p>
+- **Python for Data Science, AI & Development** - IBM via Coursera - [Verify](https://www.coursera.org/account/accomplishments/verify/85ZM27DANS29)
+- **Getting Started with Git and GitHub** - IBM via Coursera - [Verify](https://www.coursera.org/account/accomplishments/verify/NDDQGTKVVSTI)
+- **Introduction to Software Engineering** - IBM via Coursera - [Verify](https://www.coursera.org/account/accomplishments/certificate/QDUU72HWLU6V)
+- **SQL (Basic) Certificate** - HackerRank - [Verify](https://www.hackerrank.com/certificates/64ab1c9128ee)
+
+## Currently Focusing On
+
+- Building real AI-powered products with frontend, backend, API, and deployment structure.
+- Improving machine learning fundamentals, model evaluation, and practical MLOps habits.
+- Learning bioinformatics and healthcare AI workflows through reproducible pipelines.
+- Designing better architecture for LLM integrations, automation systems, and AI agents.
+- Turning experiments into usable MVPs with clear documentation and safety boundaries.
+
+## GitHub Snapshot
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=qurbaneliii&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+## Connect
+
+I am open to feedback, collaboration, and learning opportunities around AI products, data science, bioinformatics, and automation.
+
+- LinkedIn: [gurbanalifeyzullayev](https://www.linkedin.com/in/gurbanalifeyzullayev/)
+- Medium: [gurbanali.medium.com](https://gurbanali.medium.com/)
+- X: [@qurbanelii](https://x.com/qurbanelii)
+- Email: [qurbanelifeyzullayev@gmail.com](mailto:qurbanelifeyzullayev@gmail.com)
