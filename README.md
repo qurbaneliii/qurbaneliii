@@ -38,29 +38,29 @@ Focused on practical AI products, machine learning systems, bioinformatics, auto
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Machine Learning & Data Science</strong><br/>
+      <strong>ML - Machine Learning & Data Science</strong><br/>
       Feature engineering, model evaluation, notebooks, and reproducible experiments.
     </td>
     <td width="33%" valign="top">
-      <strong>AI Engineering & LLM Workflows</strong><br/>
+      <strong>AI - AI Engineering & LLM Workflows</strong><br/>
       AI assistants, provider routing, prompt systems, and local/cloud model workflows.
     </td>
     <td width="33%" valign="top">
-      <strong>Bioinformatics & Healthcare AI</strong><br/>
+      <strong>BIO - Bioinformatics & Healthcare AI</strong><br/>
       Clinical genomics pipelines, validation, explainability, and report-ready outputs.
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <strong>Full-stack AI Products</strong><br/>
+      <strong>APP - Full-stack AI Products</strong><br/>
       React/Next.js interfaces connected to FastAPI services and product workflows.
     </td>
     <td width="33%" valign="top">
-      <strong>Automation Systems</strong><br/>
+      <strong>AUTO - Automation Systems</strong><br/>
       Structured workflows for content, spreadsheets, data, and repetitive technical tasks.
     </td>
     <td width="33%" valign="top">
-      <strong>Developer Tools</strong><br/>
+      <strong>DEV - Developer Tools</strong><br/>
       SQL, Excel, API, and dashboard tools designed to make technical work faster.
     </td>
   </tr>
