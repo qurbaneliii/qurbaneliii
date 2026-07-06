@@ -221,25 +221,6 @@ Focused on practical AI products, machine learning systems, bioinformatics, auto
 
 ---
 
-## GitHub Snapshot
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=qurbaneliii&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="Gurbanali's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurbaneliii&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## Connect
 
 Open to collaboration, feedback, internships, and project opportunities around AI products, data science, automation, and bioinformatics-focused systems.
