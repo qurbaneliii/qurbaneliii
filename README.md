@@ -32,7 +32,7 @@ Building practical AI products, machine learning pipelines, automation tools, de
 
 ## Featured Projects
 
-| Project | Summary | Stack | Status |
+ Project | Summary | Stack | Status |
 | --- | --- | --- | --- |
 | [AI Social Media Manager / ARIA](https://github.com/qurbaneliii/AI-Social-Media-Manager) | AI-assisted content planning, generation, review, scheduling, and optimization workspace. | Python, FastAPI-style services, Next.js, React, TypeScript, Docker | Active MVP |
 | [SQL AI Copilot](https://github.com/qurbaneliii/SQL-ai-plugin) | PostgreSQL-focused AI sidecar for SQL generation, explanation, fixes, schema help, and safe read-only execution. | FastAPI, React, TypeScript, PostgreSQL, OpenAI, Ollama, sqlglot | In progress |
